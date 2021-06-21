@@ -13,5 +13,5 @@
 
 | Table of Contents | Description |
 |-------------------|-------------|
-| [Peak Finding](Blog/peak_finding.md) | 1d and 2d explainations of Peak Finding|
+| [Peak Finding](/Blog/peak_finding.md) | 1d and 2d explainations of Peak Finding|
 | []() | placeholder |
